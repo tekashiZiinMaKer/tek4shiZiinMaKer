@@ -54,6 +54,17 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+## **Contaction**
+<p align="left">
+  <a href="tekashimaker504@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+<a href="https://www.instagram.com/@tekashimaker/" alt="Instagram" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  </p>
+ <br>
+
 ![](https://user-images.githubusercontent.com/98004421/155067456-333f456c-1ccd-4a2c-9e82-83c164c74e92.gif)
 
 ![](https://raw.githubusercontent.com/devdahmer99/devdahmer99/output/github-contribution-grid-snake.svg)
