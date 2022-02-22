@@ -1,5 +1,7 @@
 <h1 align="center"><u>I'am tekashiZiinMaKer</u></h1>
 
+![HOME(Banner)](https://user-images.githubusercontent.com/98004421/155067354-61a5ee28-6dd0-4e52-aa1b-e9addbd68400.gif)
+
  <h3 align="center"><u>🏆 • Knowledge • 🏆</u></h3>
  <h2 align="center"><u><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -20,7 +22,7 @@
 </p>
 
 
-![](https://raw.githubusercontent.com/tekashiZiinMaKer/About-me/main/Stick(RGB).gif)
+![](https://user-images.githubusercontent.com/98004421/155067456-333f456c-1ccd-4a2c-9e82-83c164c74e92.gif)
 
 ![](https://raw.githubusercontent.com/devdahmer99/devdahmer99/output/github-contribution-grid-snake.svg)
 
